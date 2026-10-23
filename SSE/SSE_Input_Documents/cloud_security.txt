@@ -1,0 +1,6 @@
+Cloud security protects data stored in cloud environments from unauthorized access.
+Encryption can protect sensitive cloud documents before they are uploaded to a server.
+Searchable encryption can help users find encrypted information without exposing it.
+Access control policies decide which users may read or modify cloud data.
+Because the cloud provider is not fully trusted, client side encryption is useful.
+Backups and authentication further improve the security of cloud storage.

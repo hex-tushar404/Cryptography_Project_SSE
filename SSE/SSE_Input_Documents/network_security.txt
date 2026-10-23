@@ -1,0 +1,6 @@
+Network security protects computer networks from attacks and unauthorized access.
+Encryption, authentication and firewalls are important security mechanisms.
+A firewall filters network traffic based on configured security rules.
+Attackers may try to intercept data, so encryption protects information in transit.
+Strong authentication ensures that only legitimate users connect to the network.
+Monitoring and intrusion detection help identify suspicious network activity.

@@ -1,0 +1,6 @@
+Cryptography is used to protect sensitive information.
+Symmetric encryption relies on a single secret key shared between authorized parties.
+AES is a widely used symmetric encryption algorithm that operates on fixed data blocks.
+A secure key must be kept private so that only authorized users can decrypt the data.
+Searchable encryption allows encrypted data to be searched securely using tokens.
+Confidentiality, integrity and authentication are the core goals of cryptography.
